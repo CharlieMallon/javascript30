@@ -23,3 +23,11 @@ Things to add
 
 Completed: 02/03/2022 </br>
 Upgrades added:
+
+### CSS Variables
+
+Things to add 
+-   
+
+Completed: </br>
+Upgrades added:
