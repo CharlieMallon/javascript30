@@ -13,3 +13,13 @@ Things I want to add
 
 Completed: 01/03/2022 </br>
 Upgrades added:
+
+### Clock
+This is a simple JavaScript and CSS clock using the js time function and the transform function of CSS.
+Things to add 
+-   stop the hands spinning when gets to 12 o'clock
+-   make the hands the right lengths!
+-   add the date on the clock face
+
+Completed: 02/03/2022 </br>
+Upgrades added:
