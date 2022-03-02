@@ -62,3 +62,13 @@ img{
     font-weight: 700;
     z-index: 3;
 }
+
+.icon{
+    height: 40px;
+    width: 40px;
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+}
