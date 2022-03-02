@@ -14,18 +14,21 @@ img{
     object-fit: cover;
 }
 
+.col{
+    display: flex;
+    flex-direction: column;
+}
+
 .row{
     display: flex;
     flex-direction: row;
-    flex-wrap: wrap;
+}
+
+.card-container{
     justify-content: space-around;
     align-items: center;
     gap: 30px;
     margin: 30px 0px;
-}
-
-.headerCard{
-    height: auto;
 }
 
 .card{
@@ -36,6 +39,14 @@ img{
     text-align: center;
     color: white;
     background-color: #241e49;
+}
+
+.headerCard{
+    height: auto;
+}
+
+.emptyCard{
+    display: none;
 }
 
 .card-image{
@@ -69,6 +80,58 @@ img{
 }
 
 .footer{
-    display: flex;
-    justify-content: center;
+    margin-bottom: 30px;
+}
+
+.footer .row{
+    justify-content: space-evenly;
+}
+
+/* -------------------- Media Queries -------------------- */
+/* ---------- Medium devices ---------- Tablets, 768px and Up ---------- */
+@media (min-width: 768px) {
+    .card-container{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+
+    .emptyCard{
+        display: flex;
+        height: 0px;
+        width: 300px;
+    }
+
+    .headerCard{
+        height: 300px;
+        width: 700px;
+    }
+
+    .header{
+        justify-content: center;
+        align-items: center;
+        margin-top: 30px;
+    }
+
+    .footer{
+        margin: 30px;
+    }
+
+    .footer .row{
+        justify-content: flex-end;
+    }
+
+    .gitHub{
+        margin: 0px 30px;
+    }
+}
+
+/* ---------- Large devices ---------- Desktops, 992px and Up ---------- */
+
+@media (min-width: 992px) {
+
+    .footer .row{
+        justify-content: center;
+    }
+
 }
