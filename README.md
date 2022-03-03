@@ -23,9 +23,19 @@ Completed: 02/03/2022 </br>
 Upgrades added:
 
 ### CSS Variables
+This page updates the variables based on selections on the page, It introduces the concept of a 'root' for css variables.
+Things to add 
+-   selector should update when colour picker is open
+
+Completed: 03/03/2022 </br>
+Upgrades added:
+
+<!-- 
+### 
 
 Things to add 
 -   
 
 Completed: </br>
 Upgrades added:
+ -->
