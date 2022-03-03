@@ -29,8 +29,16 @@ Things to add
 
 Completed: 03/03/2022 </br>
 Upgrades added:
+ 
+### Array Cardio 💪
 
-<!-- 
+Things to add 
+-   
+
+Completed: </br>
+Upgrades added:
+
+ <!-- 
 ### 
 
 Things to add 
