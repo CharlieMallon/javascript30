@@ -31,11 +31,11 @@ Completed: 03/03/2022 </br>
 Upgrades added:
  
 ### Array Cardio 💪
-
+An introduction to filter, map, sort and reduce functions.
 Things to add 
--   
+-   Display functions to the page.
 
-Completed: </br>
+Completed: 04/03/2022 </br>
 Upgrades added:
 
  <!-- 
