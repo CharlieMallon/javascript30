@@ -39,11 +39,11 @@ Completed: 04/03/2022 </br>
 Upgrades added:
 
 ### Flex Panels Image Gallery 
-CSS flexbox and transitions
+This uses minimal js to open/close panels, it is a good into to flexbox and CSS transitions.
 Things to add 
--   
+-   only one panel is open at a time
 
-Completed: </br>
+Completed: 05/03/2022 </br>
 Upgrades added:
 
  <!-- 
