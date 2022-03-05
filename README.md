@@ -55,3 +55,8 @@ Things to add
 Completed: </br>
 Upgrades added:
  -->
+
+ credits
+
+ background image - Photo by <a href="https://unsplash.com/@adrienolichon?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Adrien Olichon</a> on <a href="https://unsplash.com/s/photos/black-glitter?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
