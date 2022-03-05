@@ -1,5 +1,5 @@
 # JavaScript30
-This is to document my journey through the [free 30 Day Vanilla JS Challenge](https://javascript30.com/). I will be attempting to do it in 30 days.
+This is to document my journey through the [free 30 Day Vanilla JS Challenge](https://javascript30.com/) created by [Wes Bos](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fjavascript30.com%2F&ref_src=twsrc%5Etfw%7Ctwcamp%5Ebuttonembed%7Ctwterm%5Efollow%7Ctwgr%5Ewesbos&screen_name=wesbos). I will be attempting to complete it in 30 days.
 I will add each of the challenges as I do them and give a overview of what each one is and any improvements I would like to add.
 
 ## Challenges
@@ -56,7 +56,9 @@ Completed: </br>
 Upgrades added:
  -->
 
- credits
+ ## Credits
 
- background image - Photo by <a href="https://unsplash.com/@adrienolichon?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Adrien Olichon</a> on <a href="https://unsplash.com/s/photos/black-glitter?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+ Background image on landing page was taken by <a href="https://unsplash.com/@adrienolichon?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Adrien Olichon</a> and sourced from <a href="https://unsplash.com/s/photos/black-glitter?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+Main content from the [free 30 Day Vanilla JS Challenge](https://javascript30.com/) created by [Wes Bos](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fjavascript30.com%2F&ref_src=twsrc%5Etfw%7Ctwcamp%5Ebuttonembed%7Ctwterm%5Efollow%7Ctwgr%5Ewesbos&screen_name=wesbos).
   
