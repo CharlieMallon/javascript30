@@ -38,6 +38,14 @@ Things to add
 Completed: 04/03/2022 </br>
 Upgrades added:
 
+### Flex Panels Image Gallery 
+CSS flexbox and transitions
+Things to add 
+-   
+
+Completed: </br>
+Upgrades added:
+
  <!-- 
 ### 
 
