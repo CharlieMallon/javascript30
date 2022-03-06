@@ -46,7 +46,15 @@ Things to add
 Completed: 05/03/2022 </br>
 Upgrades added:
 
- <!-- 
+### Type Ahead
+Filters Data based on what has been typed. Good into to using JS to return html snippets.
+Things to add 
+-   Sort by distance from me rather than order of the list
+
+Completed: 06/03/2022 </br>
+Upgrades added:
+
+<!-- 
 ### 
 
 Things to add 
