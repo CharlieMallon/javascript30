@@ -13,7 +13,7 @@ Completed: 01/03/2022 </br>
 Upgrades added:
 
 ### Clock
-This is a simple JavaScript and CSS clock using the js time function and the transform function of CSS.
+This is a simple JavaScript and CSS clock using the js time function and the transform function of CSS.</br>
 Things to add 
 -   stop the hands spinning when gets to 12 o'clock
 -   make the hands the right lengths!
@@ -23,7 +23,7 @@ Completed: 02/03/2022 </br>
 Upgrades added:
 
 ### CSS Variables
-This page updates the variables based on selections on the page, It introduces the concept of a 'root' for css variables.
+This page updates the variables based on selections on the page, It introduces the concept of a 'root' for css variables.</br>
 Things to add 
 -   selector should update when colour picker is open
 
@@ -31,7 +31,7 @@ Completed: 03/03/2022 </br>
 Upgrades added:
  
 ### Array Cardio 💪
-An introduction to filter, map, sort and reduce functions.
+An introduction to filter, map, sort and reduce functions.</br>
 Things to add 
 -   Display functions to the page.
 
@@ -39,7 +39,7 @@ Completed: 04/03/2022 </br>
 Upgrades added:
 
 ### Flex Panels Image Gallery 
-This uses minimal js to open/close panels, it is a good into to flexbox and CSS transitions.
+This uses minimal js to open/close panels, it is a good into to flexbox and CSS transitions.</br>
 Things to add 
 -   only one panel is open at a time
 
@@ -47,7 +47,7 @@ Completed: 05/03/2022 </br>
 Upgrades added:
 
 ### Type Ahead
-Filters Data based on what has been typed. Good into to using JS to return html snippets.
+Filters Data based on what has been typed. Good into to using JS to return html snippets.</br>
 Things to add 
 -   Sort by distance from me rather than order of the list
 
@@ -56,7 +56,7 @@ Upgrades added:
 
 <!-- 
 ### 
-
+</br>
 Things to add 
 -   
 
