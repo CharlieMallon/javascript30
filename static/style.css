@@ -76,7 +76,7 @@
 }
 
 .emptyCard{
-    display: none;
+    height: 0px;
 }
 
 .card-image{
