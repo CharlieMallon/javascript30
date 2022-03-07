@@ -54,6 +54,14 @@ Things to add
 Completed: 06/03/2022 </br>
 Upgrades added:
 
+### Array Cardio 💪💪
+A look at some, every, find and find index.  As well as a good look at arrow functions with implicit returns and how to construct them</br>
+Things to add 
+-   Display functions to the page.
+
+Completed: 07/03/2022</br>
+Upgrades added:
+
 <!-- 
 ### 
 </br>
@@ -63,7 +71,6 @@ Things to add
 Completed: </br>
 Upgrades added:
  -->
-
  ## Credits
 
  Background image on landing page was taken by <a href="https://unsplash.com/@adrienolichon?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Adrien Olichon</a> and sourced from <a href="https://unsplash.com/s/photos/black-glitter?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
