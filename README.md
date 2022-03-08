@@ -62,8 +62,27 @@ Things to add
 Completed: 07/03/2022</br>
 Upgrades added:
 
+### Fun with HTML5 Canvas
+A look at HTML 5 Canvas and its key features.  A in sight in how flags can be used</br>
+Things to add 
+-   user controlled variables
+-   edges to the Canvas
+
+Completed: 08/03/2022</br>
+Upgrades added:
+
 <!-- 
-### 
+### Dev Tools Domination
+</br>
+Things to add 
+-   
+
+Completed: </br>
+Upgrades added:
+ -->
+
+<!-- 
+### Dev Tools Domination
 </br>
 Things to add 
 -   
