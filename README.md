@@ -71,15 +71,14 @@ Things to add
 Completed: 08/03/2022</br>
 Upgrades added:
 
-<!-- 
 ### Dev Tools Domination
-</br>
+Dev Tools and Console tricks! shows some of  the different types of console methods</br>
 Things to add 
--   
+-   Show results to the page
+-   Research other console methods
 
-Completed: </br>
+Completed: 21/03/2022</br>
 Upgrades added:
- -->
 
 <!-- 
 ### Dev Tools Domination
