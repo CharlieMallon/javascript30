@@ -80,8 +80,25 @@ Things to add
 Completed: 21/03/2022</br>
 Upgrades added:
 
+### Hold Shift and Check checkboxes
+Hold shift to check all the boxes between two points.  Uses a simple flag variable to determine if the box should be checked or not</br>
+Things to add 
+-   none
+
+Completed: 21/03/2022</br>
+Upgrades added: N/A
+
 <!-- 
-### Dev Tools Domination
+### Custom Video Player
+</br>
+Things to add 
+-   
+
+Completed: </br>
+Upgrades added:
+ -->
+<!-- 
+### Key Sequence Detection
 </br>
 Things to add 
 -   
