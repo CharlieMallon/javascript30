@@ -62,3 +62,10 @@ ranges.forEach(range => range.addEventListener('mousemove', handleRangeUpdate))
 
 video.addEventListener('timeupdate', handleProgress)
 progress.addEventListener('click', scrub)
+
+
+let mousedown = false
+//if mousedown is true then move on to scrub, if false then wont move on.
+progress.addEventListener('mousemove', (e) => mousedown && scrub(e))
+progress.addEventListener('mousedown', () => mousedown = true)
+progress.addEventListener('mouseup', () => mousedown = false)
