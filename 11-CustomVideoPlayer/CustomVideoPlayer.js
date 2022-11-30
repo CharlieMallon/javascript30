@@ -25,7 +25,6 @@ function updateButton(){
 
 function skip(){
     // uses Data attribute of skip to see how far the video needs to move and in which direction
-    console.log(this.dataset)
     video.currentTime += parseFloat(this.dataset.skip);
 }
 
@@ -33,7 +32,12 @@ function handleRangeUpdate(){
     //this updates the value of the volume & speed sliders
     //the name of the input is the name of the property to be changed
     video[this.name] = this.value;
+}
 
+function handleProgress(){
+    //this updates the css of the progress bar
+    const percent = (video.currentTime / video.duration)*100
+    progressBar.style.flexBasis = `${percent}%`
 }
 
 // event listeners
@@ -48,3 +52,5 @@ skipButtons.forEach(button => button.addEventListener('click', skip))
 
 ranges.forEach(range => range.addEventListener('change', handleRangeUpdate))
 ranges.forEach(range => range.addEventListener('mousemove', handleRangeUpdate))
+
+video.addEventListener('timeupdate', handleProgress)
