@@ -4,7 +4,7 @@ const video = player.querySelector('.viewer');
 const progress = player.querySelector('.progress');
 const progressBar = player.querySelector('.progress__filled');
 const toggle = player.querySelector('.toggle');
-const skipButtons = player.querySelector('[data-skip]');
+const skipButtons = player.querySelectorAll('[data-skip]');
 const ranges = player.querySelector('.player__slider');
 
 // build function
@@ -18,8 +18,15 @@ function togglePlay(){
 }
 
 function updateButton(){
+    //tied to what the video is doing so it wll update no matter what played/pause the video
     const icon = this.paused ? '►' : '❚ ❚';
     toggle.textContent = icon;
+}
+
+function skip(){
+    // uses Data attribute of skip to see how far the video needs to move and in which direction
+    console.log(this.dataset)
+    video.currentTime += parseFloat(this.dataset.skip);
 }
 
 // event listeners
@@ -28,3 +35,6 @@ toggle.addEventListener('click', togglePlay);
 
 video.addEventListener('play', updateButton);
 video.addEventListener('pause', updateButton);
+
+//there are multiple skip buttons so this needs to be a foreach.
+skipButtons.forEach(button => button.addEventListener('click', skip))
