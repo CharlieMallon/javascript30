@@ -88,15 +88,14 @@ Things to add
 Completed: 21/03/2022</br>
 Upgrades added: N/A
 
-<!-- 
 ### Custom Video Player
-</br>
+Replaces the standard video player with something that should be the same in every browser. Can alter the volume and playback speed, skip sections of the video and scrub to a point in the video using the mouse.</br>
 Things to add 
--   
+-   full screen button
 
-Completed: </br>
+Completed: 30/11/2022</br>
 Upgrades added:
- -->
+
 <!-- 
 ### Key Sequence Detection
 </br>
