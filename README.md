@@ -106,9 +106,296 @@ Things to add
 Completed: </br>
 Upgrades added:
  -->
+<!-- 
+### Slide on Scroll
+</br>
+Things to add 
+-   
+
+Completed: </br>
+Upgrades added:
+ -->
+<!-- 
+### Javascript References VS Copying
+</br>
+Things to add 
+-   
+
+Completed: </br>
+Upgrades added:
+ -->
+<!-- 
+### 
+</br>
+Things to add 
+-   
+
+Completed: </br>
+Upgrades added:
+ -->
+<!-- 
+### 
+</br>
+Things to add 
+-   
+
+Completed: </br>
+Upgrades added:
+ -->
+<!-- 
+### 
+</br>
+Things to add 
+-   
+
+Completed: </br>
+Upgrades added:
+ -->
+<!-- 
+### 
+</br>
+Things to add 
+-   
+
+Completed: </br>
+Upgrades added:
+ -->
+<!-- 
+### 
+</br>
+Things to add 
+-   
+
+Completed: </br>
+Upgrades added:
+ -->
+<!-- 
+### 
+</br>
+Things to add 
+-   
+
+Completed: </br>
+Upgrades added:
+ -->
+<!-- 
+### 
+</br>
+Things to add 
+-   
+
+Completed: </br>
+Upgrades added:
+ -->
+<!-- 
+### 
+</br>
+Things to add 
+-   
+
+Completed: </br>
+Upgrades added:
+ -->
+<!-- 
+### 
+</br>
+Things to add 
+-   
+
+Completed: </br>
+Upgrades added:
+ -->
+<!-- 
+### 
+</br>
+Things to add 
+-   
+
+Completed: </br>
+Upgrades added:
+ -->
+<!-- 
+### 
+</br>
+Things to add 
+-   
+
+Completed: </br>
+Upgrades added:
+ -->
+<!-- 
+### 
+</br>
+Things to add 
+-   
+
+Completed: </br>
+Upgrades added:
+ -->
+<!-- 
+### 
+</br>
+Things to add 
+-   
+
+Completed: </br>
+Upgrades added:
+ -->
+<!-- 
+### 
+</br>
+Things to add 
+-   
+
+Completed: </br>
+Upgrades added:
+ -->
+<!-- 
+### 
+</br>
+Things to add 
+-   
+
+Completed: </br>
+Upgrades added:
+ -->
+<!-- 
+### 
+</br>
+Things to add 
+-   
+
+Completed: </br>
+Upgrades added:
+ -->
+<!-- 
+### 
+</br>
+Things to add 
+-   
+
+Completed: </br>
+Upgrades added:
+ -->
+<!-- 
+### 
+</br>
+Things to add 
+-   
+
+Completed: </br>
+Upgrades added:
+ -->
+<!-- 
+### 
+</br>
+Things to add 
+-   
+
+Completed: </br>
+Upgrades added:
+ -->
+<!-- 
+### 
+</br>
+Things to add 
+-   
+
+Completed: </br>
+Upgrades added:
+ -->
+<!-- 
+### 
+</br>
+Things to add 
+-   
+
+Completed: </br>
+Upgrades added:
+ -->
+<!-- 
+### 
+</br>
+Things to add 
+-   
+
+Completed: </br>
+Upgrades added:
+ -->
+<!-- 
+### 
+</br>
+Things to add 
+-   
+
+Completed: </br>
+Upgrades added:
+ -->
+<!-- 
+### 
+</br>
+Things to add 
+-   
+
+Completed: </br>
+Upgrades added:
+ -->
+<!-- 
+### 
+</br>
+Things to add 
+-   
+
+Completed: </br>
+Upgrades added:
+ -->
+<!-- 
+### 
+</br>
+Things to add 
+-   
+
+Completed: </br>
+Upgrades added:
+ -->
+<!-- 
+### 
+</br>
+Things to add 
+-   
+
+Completed: </br>
+Upgrades added:
+ -->
+<!-- 
+### 
+</br>
+Things to add 
+-   
+
+Completed: </br>
+Upgrades added:
+ -->
+<!-- 
+### 
+</br>
+Things to add 
+-   
+
+Completed: </br>
+Upgrades added:
+ -->
+<!-- 
+### 
+</br>
+Things to add 
+-   
+
+Completed: </br>
+Upgrades added:
+ -->
  ## Credits
 
  Background image on landing page was taken by <a href="https://unsplash.com/@adrienolichon?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Adrien Olichon</a> and sourced from <a href="https://unsplash.com/s/photos/black-glitter?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 Main content from the [free 30 Day Vanilla JS Challenge](https://javascript30.com/) created by [Wes Bos](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fjavascript30.com%2F&ref_src=twsrc%5Etfw%7Ctwcamp%5Ebuttonembed%7Ctwterm%5Efollow%7Ctwgr%5Ewesbos&screen_name=wesbos).
-  
